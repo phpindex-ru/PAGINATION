@@ -1,5 +1,5 @@
 <?php
-include_once("models/paging.php");
+include_once("page_model.php");
   class PagesController {
     public function home() {
 		
